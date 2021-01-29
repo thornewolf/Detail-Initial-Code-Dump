@@ -1,0 +1,8 @@
+# Untitled - By: Henry - Tue Oct 20 2020
+
+import sensor, image, time
+
+
+yaw = 0
+pitch = 1
+print("<", yaw, " ,", pitch, ">" )
